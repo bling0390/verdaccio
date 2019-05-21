@@ -44,7 +44,7 @@ security:
 
 # a list of other known repositories we can talk to
 uplinks:
-  cnpm
+  cnpm:
     url: https://registry.npm.taobao.org/
     timeout: 500ms
   npmjs:
